@@ -1,14 +1,12 @@
-# startup-business
-Este é um site baseado em um tema da collorlib, feito com bootstrap 4.
 <h1 align = "center">
 <br>
  <img src = "/img/logo/overlord recortado logo oficial.png">
 <br>
 <br>
-YOUR_PROJECT_NAME
+SITE FEITO COM BOOTSTRAP 4 E WORDPRESS
 </h1>
 
-<p align = "center"> Uma pequena descrição sobre seu projeto </p>
+<p align = "center">Site institucional feito com bootstrap 4 e PHP </p>
 
 <p align = "center">
   <a href="https://opensource.org/licenses/MIT">
