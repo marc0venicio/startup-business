@@ -3,10 +3,10 @@
  <img src = "/img/logo/overlord recortado logo oficial.png">
 <br>
 <br>
-SITE FEITO COM BOOTSTRAP 4 E WORDPRESS
+SITE MADE WITH BOOTSTRAP 4 PHP FOR WORDPRESS
 </h1>
 
-<p align = "center">Site institucional feito com bootstrap 4 e PHP </p>
+<p align = "center">Institutional website made with bootstrap 4 and PHP </p>
 
 <p align = "center">
   <a href="https://opensource.org/licenses/MIT">
@@ -24,16 +24,17 @@ SITE FEITO COM BOOTSTRAP 4 E WORDPRESS
 
 ## Recursos
 [//]: # (Adicione os recursos do seu projeto aqui :)
-Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel!
+Este site apresenta ferramentas utilizadas tanto para o front quanto para o back end
 
-- ⚛️ ** React Js ** - Uma biblioteca JavaScript para construir interfaces de usuário
-- ⚛️ ** React Native ** - Uma biblioteca que fornece uma maneira de criar aplicativos nativos para Android e iOS
-- 💹 ** Node Js ** - Uma estrutura da web para Node Js
+-  ** Bootstrap 4 ** - the world’s most popular front-end open source toolkit
+-  ** Sass ** - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
+-  ** Gulp ** - A toolkit to automate & enhance your workflow
+-  ** PHP ** - PHP é uma linguagem de script de uso geral popular, especialmente adequada para desenvolvimento web.
 
 ## Começando
 
-Descreva aqui a forma de usar / instalar seu projeto
-
+To use, just download the repository, install wordpress, copy the files from the plugin-cards-widget folder to the folder
+wordpress plugins and run for the hug!
 
 ## Licença
 
