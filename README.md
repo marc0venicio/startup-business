@@ -2,7 +2,7 @@
 Este é um site baseado em um tema da collorlib, feito com bootstrap 4.
 <h1 align = "center">
 <br>
-  ![logo-overlord-intellectus](https://user-images.githubusercontent.com/74750284/107153091-710b6280-694a-11eb-9928-6e33b8333113.png)
+ <img src = "/img/logo/overlord recortado logo oficial.png">
 <br>
 <br>
 YOUR_PROJECT_NAME
