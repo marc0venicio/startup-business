@@ -1,18 +1,18 @@
 <?php get_header(); ?>
 
 <main>
-      <!-- Hero Area Start -->
-      <div class="hero-area hero-height2 d-flex align-items-center" data-background="<?php bloginfo('template_url'); ?>/img/hero/h2_hero.jpg">
-         <div class="container">
-               <div class="row">
-                  <div class="col-xl-12">
-                     <div class="hero-cap text-center pt-50">
-                           <h2>Single Blog</h2>
-                     </div>
-                  </div>
-               </div>
-         </div>
-      </div>
+        <!-- Hero Area Start -->
+        <div class="hero-area hero-height2 d-flex align-items-center" data-background="<?php bloginfo('template_url'); ?>/img/hero/h2_hero.jpg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="hero-cap text-center pt-50">
+                            <h2>Our Blog</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
       <!-- Hero Area End -->
       <!--================Blog Area =================-->
       <section class="blog_area single-post-area section-padding">
@@ -205,7 +205,6 @@
                      </form>
                   </div>
                </div>
-               <?php wpbeginner_numeric_posts_nav(); ?>
               <?php get_sidebar(); ?>
                   </div>
                </div>
